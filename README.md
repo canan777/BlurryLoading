@@ -2,7 +2,7 @@
 
 ![](./src/BlurryLoading.gif)
 
-This project is an **HTML + CSS + JavaScript** based animation example where the background image gradually becomes less blurry as the page loads, and the text opacity changes at the same time.
+✅This project is an **HTML + CSS + JavaScript** based animation example where the background image gradually becomes less blurry as the page loads, and the text opacity changes at the same time.
 
 ## ✨ Features
 
@@ -23,5 +23,4 @@ This project is an **HTML + CSS + JavaScript** based animation example where the
 function scale(number, inMin, inMax, outMin, outMax) {
   return ((number - inMin) * (outMax - outMin)) / (inMax - inMin) + outMin;
 }
-```
-# BlurryLoading
+

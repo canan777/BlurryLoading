@@ -1,6 +1,7 @@
 # BlurryLoading
 
 ![](./src/BlurryLoading.gif)
+## 🚀Animated Blurry Loading
 
 ✅This project is an **HTML + CSS + JavaScript** based animation example where the background image gradually becomes less blurry as the page loads, and the text opacity changes at the same time.
 
